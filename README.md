@@ -43,11 +43,16 @@ cd EV-Battery-Management-System-using-Deep-Learning
 This snippet is perfect for a README screenshot — short, clear, and complete.
 
 If you want, I can help generate a sample screenshot of the running app interface too!
-MODEL B EV VEHICLE OUTPUT:
 
-![Screenshot 2025-04-19 201651](https://github.com/user-attachments/assets/809a2052-e5a2-4fef-b81c-ac1d838a6e71)
+### MODEL B - EV Vehicle Output
 
-MODEL A  EV VEHICLE OUTPUT :
+![MODEL B Output](![Screenshot 2025-04-19 201651](https://github.com/user-attachments/assets/f1a727de-9046-44ff-9515-2140ad1f488c)
+)
 
-![Screenshot 2025-04-19 201638](https://github.com/user-attachments/assets/d073076a-d86e-4df5-ac70-677824b7368c)
+---
+
+### MODEL A - EV Vehicle Output
+
+![MODEL A Output](![Screenshot 2025-04-19 201638](https://github.com/user-attachments/assets/d9048f55-e8b1-4b48-9fca-b63d657fc281)
+)
 

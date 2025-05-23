@@ -46,13 +46,13 @@ If you want, I can help generate a sample screenshot of the running app interfac
 
 ### MODEL B - EV Vehicle Output
 
-![MODEL B Output](https://github.com/user-attachments/assets/f1a727de-9046-44ff-9515-2140ad1f488c)
+[MODEL B Output](https://github.com/user-attachments/assets/f1a727de-9046-44ff-9515-2140ad1f488c)
 
 
 ---
 
 ### MODEL A - EV Vehicle Output
 
-![MODEL A Output](https://github.com/user-attachments/assets/d9048f55-e8b1-4b48-9fca-b63d657fc281)
+[MODEL A Output](https://github.com/user-attachments/assets/d9048f55-e8b1-4b48-9fca-b63d657fc281)
 
 

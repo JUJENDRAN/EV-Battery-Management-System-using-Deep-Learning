@@ -1,7 +1,3 @@
-Here’s a customized `README.md` for your **Electric Vehicle (EV) Battery Management System using Deep Learning** project, modeled on your 2048 game format:
-
----
-
 # 🔋 EV Battery Management System using Deep Learning
 
 Welcome to the **Electric Vehicle Battery Management System (EV-BMS)** powered by **Deep Learning**! This project leverages advanced AI techniques like **LSTM**, **CNN**, and **Transformer-based architectures** to monitor, analyze, and optimize EV battery health and charging behavior for maximum efficiency and lifespan.
